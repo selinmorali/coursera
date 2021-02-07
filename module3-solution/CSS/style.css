@@ -26,6 +26,10 @@
 	margin-right: 25px;
 }
 
+#navbar ul {
+background-color: #ffe57c;
+}
+
 .icon-bar{
 	background-color: rgba(172, 23, 23, 0.904);
 }
