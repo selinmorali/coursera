@@ -1,2 +1,2 @@
-# coursera1
+# coursera
 Module 2 Solution
